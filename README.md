@@ -10,7 +10,7 @@ BPF Compiler Collection (BCC) is a toolkit for creating efficient kernel tracing
 
 1. [Hello World](src/0x01/README.md)
 2. [sys_sync()](src/0x02/README.md)
-3. hello_fields.py
+3. [hello_fields.py](src/0x03/README.md)
 4. sync_timing.py
 5. sync_count.py
 6. disksnoop.py
