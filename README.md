@@ -16,8 +16,8 @@ BPF Compiler Collection (BCC) is a toolkit for creating efficient kernel tracing
 6. [disksnoop.py](src/0x06/README.md)
 7. [hello_perf_output.py](src/0x07/README.md)
 8. [sync_perf_output.py](src/0x08/README.md)
-9. bitehist.py
-10. disklatency.py
+9. [bitehist.py](src/0x09/README.md)
+10. [disklatency.py](src/0x10/README.md)
 11. vfsreadlat.py
 12. urandomread.py
 13. disksnoop.py fixed
