@@ -95,4 +95,4 @@ sudo python main.py
 make run
 ```
 
-![img](asset/demo.jpg)
+![img](../../asset/demo.jpg)
