@@ -59,7 +59,7 @@ while True:
 首先编译源文件，生成 `libfunc.so` 动态库和 `main.out` 执行文件。
 
 ```Shell
-cd demo
+cd tracing
 make
 ```
 
@@ -95,4 +95,4 @@ sudo python main.py
 make run
 ```
 
-![img](../../asset/demo.jpg)
+![img](../../asset/tracing.jpg)
